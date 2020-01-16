@@ -29,7 +29,7 @@ public class Test1 {
 
         /**
          * 更改bool值，float值步骤
-         * 1.更改数据库名
+         * 更改数据库名
          */
 
         //写入bool值
