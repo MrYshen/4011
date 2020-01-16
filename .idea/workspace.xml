@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7802bf5e-8164-4f12-8160-3f3d7fe0c747" name="Default Changelist" comment="13点04分&#10;    4011">
+    <list default="true" id="7802bf5e-8164-4f12-8160-3f3d7fe0c747" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13点00分_4011.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/hust/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/hust/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/excel/ID.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/excel/four.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/excel/three.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/excel/threefour.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,24 +113,32 @@
       <option name="project" value="LOCAL" />
       <updated>1579153717921</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="13点54分&#10;4011">
+      <created>1579154075951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579154075951</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="13点00分&#10;4011" />
     <MESSAGE value="13点04分&#10;4011" />
     <MESSAGE value="13点04分&#10;    4011" />
-    <option name="LAST_COMMIT_MESSAGE" value="13点04分&#10;    4011" />
+    <MESSAGE value="13点54分&#10;4011" />
+    <option name="LAST_COMMIT_MESSAGE" value="13点54分&#10;4011" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Project_Structure" timestamp="1579151238918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1579151238918" />
-    <state x="598" y="115" key="CommitChangelistDialog2" timestamp="1579154037729">
+    <state x="598" y="115" key="CommitChangelistDialog2" timestamp="1579154074007">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="598" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579154037729" />
+    <state x="598" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579154074007" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1579150776665">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -177,10 +179,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579150765118" />
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1579153753669">
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1579154080875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579153753669" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579154080875" />
     <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1579150819346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
